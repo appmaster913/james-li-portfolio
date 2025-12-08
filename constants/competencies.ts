@@ -1,0 +1,15 @@
+export const COMPETENCIES = [
+  "Software Architecture",
+  "AI-driven Solutions",
+  "Software Development",
+  "Blockchain Development",
+  "Integration Strategy",
+  "Smart Contract Develop",
+  "API Development",
+  "Laravel Development",
+  "React Native Development",
+  "Product/Project Lead",
+  "Structure and Optimize",
+  "Continuous Improvements",
+  "Professional Services",
+];
